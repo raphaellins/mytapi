@@ -12,6 +12,7 @@ yarn dev
 # Example of use
 
 /POST/activies
+```json
 {
  "title": "Activity 1",
  "priority": 2,
@@ -21,3 +22,4 @@ yarn dev
  "project": "Personal Development Books",
  "Description": "First chapter of Limits of Power"
 }
+```
